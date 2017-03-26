@@ -40,7 +40,7 @@ default: http://stackoverflow.com/documentation/python/topics
 ```
 
 ```
-PDF_OPTIONS: Formatiing options for PDF
+PDF_OPTIONS: Formatting options for PDF
 default:
 {
     'page-size': 'Letter',
