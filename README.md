@@ -71,7 +71,7 @@ And then, wait for get finished and PDFs are ready to print in ` /pdf ` folder
 
 ## Contributing
 
-Please read [CONTRIBUTING](/CONTRIBUTING.txt) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING](/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
