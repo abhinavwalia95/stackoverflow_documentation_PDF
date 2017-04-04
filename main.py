@@ -85,7 +85,7 @@ for each in all_topics:
             every.decompose()
         for every in soup_topic.find_all('code'):
             every.name = 'pre_code'
-            every['style'] = "background: #eff0f1;"
+            every['style'] = "background: #eff0f1; white-space: pre-wrap;"
         pdfkit.from_string(soup_topic.prettify(), 'pdf/' + name + '.pdf', options=options)
         print "Converted " + name + " to pdf"
     except:
